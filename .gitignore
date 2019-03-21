@@ -1,0 +1,6 @@
+data/
+logs/
+
+*.h5
+final.ipynb
+*.npy
